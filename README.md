@@ -1,4 +1,4 @@
-# ğŸ‘‹ Hey there, I'm Lapsdiye!
+# ‹ Hey there, I'm Lapsdiye!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Craftsman+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
