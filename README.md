@@ -57,7 +57,7 @@ const lapsdiye = {
 
 ---
 
-## ğŸ“Š GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lapsdiye&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
