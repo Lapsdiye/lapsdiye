@@ -10,7 +10,7 @@
 
 ---
 
-##About Me
+## About Me
 
 I'm a passionate developer who loves turning ideas into reality through code. From crafting elegant frontend experiences to building robust backend systems, I enjoy every aspect of the development journey. Always eager to learn new technologies and tackle challenging problems!
 
