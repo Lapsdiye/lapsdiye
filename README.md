@@ -70,7 +70,7 @@ const lapsdiye = {
 
 ---
 
-## ğŸ† Achievement Showcase
+## Achievement Showcase
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Lapsdiye&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
@@ -78,7 +78,7 @@ const lapsdiye = {
 
 ---
 
-## ğŸ“ˆ Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lapsdiye&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Activity Graph" />
@@ -86,20 +86,20 @@ const lapsdiye = {
 
 ---
 
-## ğŸ¯ Current Goals
+## Current Goals
 
 ```diff
-+ ğŸš€ Master modern JavaScript frameworks and Node.js
-+ ğŸ”§ Dive deeper into ASP.NET Core development
-+ ğŸ¨ Enhance UI/UX skills with advanced Bootstrap techniques
-+ ğŸ“± Explore mobile development
-+ ğŸ¤ Contribute to open source projects
-+ ğŸ“š Never stop learning!
++ Master modern JavaScript frameworks and Node.js
++ Dive deeper into ASP.NET Core development
++ Enhance UI/UX skills with advanced Bootstrap techniques
++ Explore mobile development
++ Contribute to open source projects
++ Never stop learning!
 ```
 
 ---
 
-## ğŸŒ Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -110,7 +110,7 @@ const lapsdiye = {
 
 ---
 
-## ğŸ’­ Daily Inspiration
+## Daily Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in" alt="Random Dev Quote" />
@@ -118,7 +118,7 @@ const lapsdiye = {
 
 ---
 
-## ğŸµ Coding Playlist Vibes
+## Coding Playlist Vibes
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify_username&unique=true" alt="Spotify" />
@@ -128,13 +128,13 @@ const lapsdiye = {
 
 <div align="center">
 
-### ğŸ’« "Code is poetry written in logic"
+### "Code is poetry written in logic"
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
-**âœ¨ Thanks for visiting my profile! Don't forget to star â­ if you like what you see!**
+**¨ Thanks for visiting my profile! Don't forget to star â­ if you like what you see!**
 
 </div>
 
