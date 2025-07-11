@@ -1,4 +1,4 @@
-# ‹ Hey there, I'm Lapsdiye!
+# Hey there, I'm Lapsdiye!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Craftsman+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ---
 
-## ğŸŒŸ About Me
+##About Me
 
 I'm a passionate developer who loves turning ideas into reality through code. From crafting elegant frontend experiences to building robust backend systems, I enjoy every aspect of the development journey. Always eager to learn new technologies and tackle challenging problems!
 
@@ -29,7 +29,7 @@ const lapsdiye = {
 
 ---
 
-## ğŸ› ï¸ My Tech Arsenal
+## My Tech Arsenal
 
 <div align="center">
 
